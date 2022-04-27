@@ -6,7 +6,7 @@ Technically it solely utilizes the closeness function (with parameter wf_improve
 ## Requirements
 This tool is written in Python3.<br/>
 It requires networkx https://networkx.org/ .<br/>
-It also requires networkxgmml https://pypi.org/project/networkxgmml/, which is the standard output by EFI-EST https://efi.igb.illinois.edu/efi-est/ .<br/>
+It also requires networkxgmml https://pypi.org/project/networkxgmml/, which is the standard output by EFI-EST https://efi.igb.illinois.edu/efi-est/.<br/>
 
 
 ## How to use
