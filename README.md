@@ -1,4 +1,4 @@
-#closeness_by_component
+# closeness_by_component
 This script is related to this publication: https://www.biorxiv.org/content/10.1101/2022.04.19.488343v1
 It will process a file or a folder, and will calculate the combined closeness for a graph and all subgraphs in this graph.
 Technically it solely utilizes the closeness function (with parameter wf_improved=False) in Networkx, without any mathematical changes. This script simply exposes the functions for a non-programming end-user to use for data analysis.
